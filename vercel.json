@@ -1,0 +1,15 @@
+{
+  "version": 4,
+  "builds": [
+    {
+      "src": "./flaskr/__init__.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ]
+}

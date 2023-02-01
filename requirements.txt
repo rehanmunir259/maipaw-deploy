@@ -1,0 +1,7 @@
+fastapi==0.89.1
+Flask==2.2.2
+Flask_Mail==0.9.1
+pydantic==1.10.4
+PyJWT==2.6.0
+pymongo==4.3.3
+Werkzeug==2.2.2

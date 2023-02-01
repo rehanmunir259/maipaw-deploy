@@ -1,0 +1,11 @@
+.idea
+flaskr/uploads/
+backlog
+
+flaskr/__pycache__
+flaskr/blueprints/__pycache__
+flaskr/middlewares/__pycache__
+flaskr/models/__pycache__
+flaskr/.DS_Store
+
+venv/
